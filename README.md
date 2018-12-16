@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Introduction
 
 Hello there
+
+## Section 1
+Section 1
